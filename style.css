@@ -13,7 +13,7 @@ header{
     position:sticky;
 }
 .nav_logo{
-    background-image: url(logo.jpg);
+    background-image: url(logo.webp);
     background-size: cover;
     background-position: center;
     border-radius: 50%;
@@ -91,7 +91,7 @@ a:hover{
 }
 /**mian**/
 main{
-     background-image:url(back.jpg);
+     background-image:url(back.webp);
      height: 500px;
      opacity:0.8;
 
@@ -114,7 +114,7 @@ main{
     display: flex;
 }
 .image{
-    background-image: url(dp.jpg);
+    background-image: url(dp.webp);
     background-position: center;
     background-size: cover;
     height: 400px;
@@ -155,14 +155,14 @@ text-decoration: underline;
     background-color: rgb(190, 133, 26);
 }
 .sub1{
-    background-image: url(sub1.jpg);
+    background-image: url(sub1.webp);
     background-size: contain;
     height: 320px;
     width: 300px;
 
 }
 .sub2{
-    background-image: url(sub2.jpg);
+    background-image: url(sub2.webp);
     background-size:cover;
     height: 320px;
     width: 300px;
@@ -204,14 +204,14 @@ text-decoration: underline;
     text-align: center;
 }
 .title1{
-    background-image:url(portfilo1.jpg) ;
+    background-image:url(portfilo1.webp) ;
     background-size: cover;
     background-position: 20px;
     height: 250px;
     width: 80%;
 }
 .title2{
-    background-image:url(advisor.jpg) ;
+    background-image:url(advisor.webp) ;
     background-size: cover;
 
     background-position: center;
@@ -221,7 +221,7 @@ text-decoration: underline;
     margin-left: 30px;
 }
 .title3{
-    background-image:url(13713.jpg) ;
+    background-image:url(13713.webp) ;
     background-size: cover;
     
     background-position: center;
